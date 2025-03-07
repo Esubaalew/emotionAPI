@@ -9,7 +9,6 @@ import pickle
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app)
-
 # Rate limiting configuration
 limiter = Limiter(
     app=app,

@@ -1,4 +1,4 @@
-fastapi==0.95.2
+flask
 uvicorn==0.22.0
 pydantic==1.10.7
 torch==2.0.1
@@ -6,3 +6,5 @@ transformers==4.28.1
 python-multipart==0.0.6
 slowapi==0.1.0
 gunicorn== 23.0.0
+flask-cors==5.0.1
+Flask-Limiter==0.7.5
