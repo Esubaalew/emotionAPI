@@ -1,6 +1,3 @@
 /.idea
 /.venv
 /__pycache__
-/tfidf_vectorizer.pkl
-*.pkl
-*.pth

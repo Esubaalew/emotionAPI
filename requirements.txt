@@ -5,3 +5,4 @@ torch==2.0.1
 transformers==4.28.1
 python-multipart==0.0.6
 slowapi==0.1.0
+gunicorn== 23.0.0
