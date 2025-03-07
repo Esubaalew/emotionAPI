@@ -2,7 +2,7 @@ Flask==2.0.3
 Werkzeug==2.0.3
 Flask-Cors==3.0.10
 Flask-Limiter==2.8.0
-torch==1.13.1+cu116  # Specific version with CUDA compatibility
+torch==1.13.1
 transformers==4.26.1
 python-dotenv==0.19.2
 gunicorn==20.1.0
